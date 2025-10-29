@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Studio Enhancer",
+  "description": "Upload a portrait and use AI to transform it into a professional studio-quality photograph with enhanced lighting and a clean background.",
+  "requestFramePermissions": []
+}
